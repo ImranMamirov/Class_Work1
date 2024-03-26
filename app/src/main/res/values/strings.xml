@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Class_Work</string>
+    <string name="my_garden">Мой Сад</string>
+    <string name="all_plants">Все растения</string>
+    <string name="kitchen">Кухня</string>
+    <string name="living_room">Гостиная</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
